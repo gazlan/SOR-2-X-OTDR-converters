@@ -1,0 +1,8 @@
+-*-   sor2csv 1.0   *   (c)  Gazlan,  2015   -*-
+
+SOR trace to CSV converter
+
+Usage: sor2csv.com [wildcards]
+
+complains_n_suggestions direct to gazlan@yandex.ru
+
